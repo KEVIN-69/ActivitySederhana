@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">barVolume</string>
+    <string name="Length">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="length">panjang</string>
+    <string name="panjang">panjang</string>
+    <string name="Panjang">Panjang</string>
+    <string name="Width">Lebar</string>
+    <string name="Height">Tinggi</string>
+</resources>
